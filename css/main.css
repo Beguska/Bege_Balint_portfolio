@@ -1,0 +1,209 @@
+body{
+
+	background-image: url(../css/pictures/background.jpg);
+	background-size: 100%;
+	color: white;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 25px;
+	margin:0;
+	/* url(pictures/headerfoto.jpg);*/
+}
+
+img{
+	max-width: 40%
+}
+
+.message1{
+	width: 80%
+	margin:auto;
+	overflow:hidden;
+
+}
+#main-portfólió{
+	background-image: url(../css/pictures/background.jpg);
+	text-align: center;
+	font-family: Arial, Helmetica, sans-serif;
+	font-size: 20px;
+	padding: 20px;
+	margin: 0;
+	color: white;
+
+	
+}
+#navbar ul{
+	padding: 0;
+	list-style: none;
+
+}
+
+}
+#navbar li{
+	display: inline;
+
+}
+
+#navbar a{
+	float: left;
+	margin-bottom: 15px;
+	margin-left:15%;
+	color:white;
+	text-decoration: none;
+	font-size: 23px;
+	padding: 5px;
+	text-align: center;	
+	background-color: #F08080;
+	border: 5px black solid;
+	border-radius: 0.5rem;
+}
+#navbar a:hover{
+	color: black;
+}
+
+#navbar{
+	background-color:#CD5C5C;
+	text-align: center;
+}
+.doboz{
+	width:80%;
+	margin: auto;
+	margin-top:50px;
+
+}
+
+.box1{
+	background-color: #CD5C5C;
+	padding: 20px;
+	border-radius: 1rem;
+
+	
+}
+
+.box1 h1{
+	font-family: Tahoma;
+	font-weight: 400px;
+	font-style: italic;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.kép img{
+	margin:auto;
+	margin-top: 10px;
+	border: 10px #CD5C5C solid;
+	border-radius: 1rem;
+	display: block;
+}
+
+.kontakt h1{
+	font-family: Arial, Helmetica, sans-serif;
+	text-align: center;
+	padding:20px;
+	background-color: #CD5C5C;
+	padding: 20px;
+	border-radius: 1rem;
+}
+
+.kontakt p{
+	font-family: Arial, Helmetica, sans-serif;
+	text-align: center;
+	padding:20px;
+	background-color: #CD5C5C;
+	border-radius: 1rem;
+}
+
+.doboz {
+text-align: center;
+}
+.doboz img{
+	border-radius: 1rem;
+	border: 10px #CD5C5C solid;
+	border-radius: 1rem;
+
+}
+
+.fotó p{
+	font-family: Arial, Helmetica, sans-serif;
+	text-align: center;
+	padding:15px;
+	background-color: #CD5C5C;
+	padding: 20px;
+	border-radius: 1rem;
+	
+}
+.fotó{
+text-align: center;
+padding: 20px;
+}
+
+.fotó img{
+	height: 10%
+	width: 10%;
+	border: 10px #CD5C5C solid;
+	border-radius: 1rem;
+	display: inline-block;
+
+}
+
+.képek h1{
+	font-family: Arial, Helmetica, sans-serif;
+	text-align: center;
+	padding:15px;
+	background-color: #CD5C5C;
+	
+	border-radius: 1rem;
+}
+
+.képek h2{
+	font-family: Arial, Helmetica, sans-serif;
+	color: black;
+	font-size: 45px;
+	text-align: center;
+	padding:15px;	
+	
+	
+}
+
+.szöveg p{
+	font-family: Georgia, serif;
+	font-size: 19px;
+	text-align: center;
+	padding:15px;
+	background-color: #CD5C5C;
+	
+	border-radius: 1rem;
+	
+}
+.szöveg h3{
+	font-family: Arial, Helmetica, sans-serif;
+	color: black;
+	text-align: center;
+	font-size: 30px;
+	padding:0;
+
+}
+
+.szöveg a{
+	text-decoration: none;
+	color:white;
+}
+
+.szöveg a:hover{
+	color: black;
+}
+
+.szöveg ul{
+	padding:0;
+	color: white;
+	text-align: center;
+	list-style: none;
+	margin-left: 10px;
+	font-family: Arial, Helmetica, sans-serif;
+	background-color: #CD5C5C;
+	border-radius: 1rem
+}
+
+
+
+
